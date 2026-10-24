@@ -1,0 +1,2 @@
+# astrbot_plugin_webscreenshot
+一个能让你的bot实现网页截图功能的插件(代码是GLM写的)
